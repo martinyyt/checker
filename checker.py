@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from logger import logger
 from datetime import datetime
 import time
